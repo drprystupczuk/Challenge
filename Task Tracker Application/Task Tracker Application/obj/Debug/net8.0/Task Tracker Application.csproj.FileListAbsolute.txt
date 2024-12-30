@@ -1,0 +1,41 @@
+D:\Git\Challenge\Task Tracker Application\Task Tracker Application\bin\Debug\net8.0\appsettings.Development.json
+D:\Git\Challenge\Task Tracker Application\Task Tracker Application\bin\Debug\net8.0\appsettings.json
+D:\Git\Challenge\Task Tracker Application\Task Tracker Application\bin\Debug\net8.0\Task Tracker Application.staticwebassets.endpoints.json
+D:\Git\Challenge\Task Tracker Application\Task Tracker Application\bin\Debug\net8.0\Task Tracker Application.exe
+D:\Git\Challenge\Task Tracker Application\Task Tracker Application\bin\Debug\net8.0\Task Tracker Application.deps.json
+D:\Git\Challenge\Task Tracker Application\Task Tracker Application\bin\Debug\net8.0\Task Tracker Application.runtimeconfig.json
+D:\Git\Challenge\Task Tracker Application\Task Tracker Application\bin\Debug\net8.0\Task Tracker Application.dll
+D:\Git\Challenge\Task Tracker Application\Task Tracker Application\bin\Debug\net8.0\Task Tracker Application.pdb
+D:\Git\Challenge\Task Tracker Application\Task Tracker Application\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Git\Challenge\Task Tracker Application\Task Tracker Application\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Git\Challenge\Task Tracker Application\Task Tracker Application\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Git\Challenge\Task Tracker Application\Task Tracker Application\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Git\Challenge\Task Tracker Application\Task Tracker Application\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Git\Challenge\Task Tracker Application\Task Tracker Application\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\Git\Challenge\Task Tracker Application\Task Tracker Application\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\Git\Challenge\Task Tracker Application\Task Tracker Application\bin\Debug\net8.0\System.Text.Json.dll
+D:\Git\Challenge\Task Tracker Application\Task Tracker Application\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\Git\Challenge\Task Tracker Application\Task Tracker Application\obj\Debug\net8.0\Task Tracker Application.csproj.AssemblyReference.cache
+D:\Git\Challenge\Task Tracker Application\Task Tracker Application\obj\Debug\net8.0\Task Tracker Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\Challenge\Task Tracker Application\Task Tracker Application\obj\Debug\net8.0\Task Tracker Application.AssemblyInfoInputs.cache
+D:\Git\Challenge\Task Tracker Application\Task Tracker Application\obj\Debug\net8.0\Task Tracker Application.AssemblyInfo.cs
+D:\Git\Challenge\Task Tracker Application\Task Tracker Application\obj\Debug\net8.0\Task Tracker Application.csproj.CoreCompileInputs.cache
+D:\Git\Challenge\Task Tracker Application\Task Tracker Application\obj\Debug\net8.0\Task Tracker Application.MvcApplicationPartsAssemblyInfo.cs
+D:\Git\Challenge\Task Tracker Application\Task Tracker Application\obj\Debug\net8.0\Task Tracker Application.MvcApplicationPartsAssemblyInfo.cache
+D:\Git\Challenge\Task Tracker Application\Task Tracker Application\obj\Debug\net8.0\scopedcss\bundle\Task Tracker Application.styles.css
+D:\Git\Challenge\Task Tracker Application\Task Tracker Application\obj\Debug\net8.0\staticwebassets.build.json
+D:\Git\Challenge\Task Tracker Application\Task Tracker Application\obj\Debug\net8.0\staticwebassets.development.json
+D:\Git\Challenge\Task Tracker Application\Task Tracker Application\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Git\Challenge\Task Tracker Application\Task Tracker Application\obj\Debug\net8.0\staticwebassets\msbuild.Task Tracker Application.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Git\Challenge\Task Tracker Application\Task Tracker Application\obj\Debug\net8.0\staticwebassets\msbuild.Task Tracker Application.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Git\Challenge\Task Tracker Application\Task Tracker Application\obj\Debug\net8.0\staticwebassets\msbuild.build.Task Tracker Application.props
+D:\Git\Challenge\Task Tracker Application\Task Tracker Application\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Task Tracker Application.props
+D:\Git\Challenge\Task Tracker Application\Task Tracker Application\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Task Tracker Application.props
+D:\Git\Challenge\Task Tracker Application\Task Tracker Application\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Git\Challenge\Task Tracker Application\Task Tracker Application\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Git\Challenge\Task Tracker Application\Task Tracker Application\obj\Debug\net8.0\Task Tra.1B25D371.Up2Date
+D:\Git\Challenge\Task Tracker Application\Task Tracker Application\obj\Debug\net8.0\Task Tracker Application.dll
+D:\Git\Challenge\Task Tracker Application\Task Tracker Application\obj\Debug\net8.0\refint\Task Tracker Application.dll
+D:\Git\Challenge\Task Tracker Application\Task Tracker Application\obj\Debug\net8.0\Task Tracker Application.pdb
+D:\Git\Challenge\Task Tracker Application\Task Tracker Application\obj\Debug\net8.0\Task Tracker Application.genruntimeconfig.cache
+D:\Git\Challenge\Task Tracker Application\Task Tracker Application\obj\Debug\net8.0\ref\Task Tracker Application.dll
