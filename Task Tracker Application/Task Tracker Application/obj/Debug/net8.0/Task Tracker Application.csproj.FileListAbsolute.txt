@@ -22,6 +22,7 @@ D:\Git\Challenge\Task Tracker Application\Task Tracker Application\obj\Debug\net
 D:\Git\Challenge\Task Tracker Application\Task Tracker Application\obj\Debug\net8.0\Task Tracker Application.csproj.CoreCompileInputs.cache
 D:\Git\Challenge\Task Tracker Application\Task Tracker Application\obj\Debug\net8.0\Task Tracker Application.MvcApplicationPartsAssemblyInfo.cs
 D:\Git\Challenge\Task Tracker Application\Task Tracker Application\obj\Debug\net8.0\Task Tracker Application.MvcApplicationPartsAssemblyInfo.cache
+D:\Git\Challenge\Task Tracker Application\Task Tracker Application\obj\Debug\net8.0\Task Tracker Application.sourcelink.json
 D:\Git\Challenge\Task Tracker Application\Task Tracker Application\obj\Debug\net8.0\scopedcss\bundle\Task Tracker Application.styles.css
 D:\Git\Challenge\Task Tracker Application\Task Tracker Application\obj\Debug\net8.0\staticwebassets.build.json
 D:\Git\Challenge\Task Tracker Application\Task Tracker Application\obj\Debug\net8.0\staticwebassets.development.json

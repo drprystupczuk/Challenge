@@ -2,48 +2,27 @@
   {
     "ContainingType": "Task_Tracker_Application.Controllers.TasksController",
     "Method": "Get",
-    "RelativePath": "api/tasks",
+    "RelativePath": "api/Tasks",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
     "Parameters": [],
-    "ReturnTypes": [
-      {
-        "Type": "System.Collections.Generic.List\u00601[[Task_Tracker_Application.Model.CustomTask, Task Tracker Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
-      }
-    ],
-    "EndpointName": "GetTasks"
+    "ReturnTypes": []
   },
   {
     "ContainingType": "Task_Tracker_Application.Controllers.TasksController",
     "Method": "Post",
-    "RelativePath": "api/tasks",
+    "RelativePath": "api/Tasks",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
-        "Name": "taskJson",
-        "Type": "Newtonsoft.Json.Linq.JObject",
+        "Name": "taskDTO",
+        "Type": "Task_Tracker_Application.DTOs.RequestTaskDTO",
         "IsRequired": true
       }
     ],
-    "ReturnTypes": [
-      {
-        "Type": "System.Collections.Generic.List\u00601[[Task_Tracker_Application.Model.CustomTask, Task Tracker Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
-      }
-    ]
+    "ReturnTypes": []
   }
 ]

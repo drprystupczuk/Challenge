@@ -1,9 +1,9 @@
 ﻿namespace Task_Tracker_Application.DTOs
 {
-    public class TaskDTO
+    public class RequestTaskDTO
     {
         public string Name { get; set; }
 
-        public string Description { get; set; }
+        public string Description { get; set; } 
     }
 }

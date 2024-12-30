@@ -7,12 +7,32 @@
       "RelativeMoniker": "D:0:0:{24B56234-3FBB-43FC-ABCE-E0BD61808CD0}|Task Tracker Application\\Task Tracker Application.csproj|solutionrelative:task tracker application\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24B56234-3FBB-43FC-ABCE-E0BD61808CD0}|Task Tracker Application\\Task Tracker Application.csproj|d:\\git\\challenge\\task tracker application\\task tracker application\\model\\customtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24B56234-3FBB-43FC-ABCE-E0BD61808CD0}|Task Tracker Application\\Task Tracker Application.csproj|solutionrelative:task tracker application\\model\\customtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{24B56234-3FBB-43FC-ABCE-E0BD61808CD0}|Task Tracker Application\\Task Tracker Application.csproj|d:\\git\\challenge\\task tracker application\\task tracker application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24B56234-3FBB-43FC-ABCE-E0BD61808CD0}|Task Tracker Application\\Task Tracker Application.csproj|solutionrelative:task tracker application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24B56234-3FBB-43FC-ABCE-E0BD61808CD0}|Task Tracker Application\\Task Tracker Application.csproj|d:\\git\\challenge\\task tracker application\\task tracker application\\dtos\\taskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24B56234-3FBB-43FC-ABCE-E0BD61808CD0}|Task Tracker Application\\Task Tracker Application.csproj|solutionrelative:task tracker application\\dtos\\taskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{24B56234-3FBB-43FC-ABCE-E0BD61808CD0}|Task Tracker Application\\Task Tracker Application.csproj|d:\\git\\challenge\\task tracker application\\task tracker application\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{24B56234-3FBB-43FC-ABCE-E0BD61808CD0}|Task Tracker Application\\Task Tracker Application.csproj|solutionrelative:task tracker application\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B56234-3FBB-43FC-ABCE-E0BD61808CD0}|Task Tracker Application\\Task Tracker Application.csproj|d:\\git\\challenge\\task tracker application\\task tracker application\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{24B56234-3FBB-43FC-ABCE-E0BD61808CD0}|Task Tracker Application\\Task Tracker Application.csproj|solutionrelative:task tracker application\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B56234-3FBB-43FC-ABCE-E0BD61808CD0}|Task Tracker Application\\Task Tracker Application.csproj|d:\\git\\challenge\\task tracker application\\task tracker application\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{24B56234-3FBB-43FC-ABCE-E0BD61808CD0}|Task Tracker Application\\Task Tracker Application.csproj|solutionrelative:task tracker application\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B56234-3FBB-43FC-ABCE-E0BD61808CD0}|Task Tracker Application\\Task Tracker Application.csproj|d:\\git\\challenge\\task tracker application\\task tracker application\\services\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24B56234-3FBB-43FC-ABCE-E0BD61808CD0}|Task Tracker Application\\Task Tracker Application.csproj|solutionrelative:task tracker application\\services\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B56234-3FBB-43FC-ABCE-E0BD61808CD0}|Task Tracker Application\\Task Tracker Application.csproj|d:\\git\\challenge\\task tracker application\\task tracker application\\dtos\\requesttaskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24B56234-3FBB-43FC-ABCE-E0BD61808CD0}|Task Tracker Application\\Task Tracker Application.csproj|solutionrelative:task tracker application\\dtos\\requesttaskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B56234-3FBB-43FC-ABCE-E0BD61808CD0}|Task Tracker Application\\Task Tracker Application.csproj|d:\\git\\challenge\\task tracker application\\task tracker application\\model\\customtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24B56234-3FBB-43FC-ABCE-E0BD61808CD0}|Task Tracker Application\\Task Tracker Application.csproj|solutionrelative:task tracker application\\model\\customtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -21,8 +41,8 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 293,
-          "SelectedChildIndex": 12,
+          "DockedWidth": 343,
+          "SelectedChildIndex": 17,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,15 +90,80 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Git\\Challenge\\Task Tracker Application\\Task Tracker Application\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Task Tracker Application\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Git\\Challenge\\Task Tracker Application\\Task Tracker Application\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Task Tracker Application\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-30T21:10:06.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Git\\Challenge\\Task Tracker Application\\Task Tracker Application\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Task Tracker Application\\appsettings.Development.json",
+              "ToolTip": "D:\\Git\\Challenge\\Task Tracker Application\\Task Tracker Application\\appsettings.Development.json",
+              "RelativeToolTip": "Task Tracker Application\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-30T21:09:31.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "TaskDTO.cs",
-              "DocumentMoniker": "D:\\Git\\Challenge\\Task Tracker Application\\Task Tracker Application\\DTOs\\TaskDTO.cs",
-              "RelativeDocumentMoniker": "Task Tracker Application\\DTOs\\TaskDTO.cs",
-              "ToolTip": "D:\\Git\\Challenge\\Task Tracker Application\\Task Tracker Application\\DTOs\\TaskDTO.cs",
-              "RelativeToolTip": "Task Tracker Application\\DTOs\\TaskDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAUAAAAAAAAAA==",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Git\\Challenge\\Task Tracker Application\\Task Tracker Application\\appsettings.json",
+              "RelativeDocumentMoniker": "Task Tracker Application\\appsettings.json",
+              "ToolTip": "D:\\Git\\Challenge\\Task Tracker Application\\Task Tracker Application\\appsettings.json",
+              "RelativeToolTip": "Task Tracker Application\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-30T21:09:27.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Git\\Challenge\\Task Tracker Application\\Task Tracker Application\\Program.cs",
+              "RelativeDocumentMoniker": "Task Tracker Application\\Program.cs",
+              "ToolTip": "D:\\Git\\Challenge\\Task Tracker Application\\Task Tracker Application\\Program.cs",
+              "RelativeToolTip": "Task Tracker Application\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-30T17:09:10.287Z",
+              "WhenOpened": "2024-12-30T20:03:41.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TaskService.cs",
+              "DocumentMoniker": "D:\\Git\\Challenge\\Task Tracker Application\\Task Tracker Application\\Services\\TaskService.cs",
+              "RelativeDocumentMoniker": "Task Tracker Application\\Services\\TaskService.cs",
+              "ToolTip": "D:\\Git\\Challenge\\Task Tracker Application\\Task Tracker Application\\Services\\TaskService.cs",
+              "RelativeToolTip": "Task Tracker Application\\Services\\TaskService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T19:46:15.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RequestTaskDTO.cs",
+              "DocumentMoniker": "D:\\Git\\Challenge\\Task Tracker Application\\Task Tracker Application\\DTOs\\RequestTaskDTO.cs",
+              "RelativeDocumentMoniker": "Task Tracker Application\\DTOs\\RequestTaskDTO.cs",
+              "ToolTip": "D:\\Git\\Challenge\\Task Tracker Application\\Task Tracker Application\\DTOs\\RequestTaskDTO.cs",
+              "RelativeToolTip": "Task Tracker Application\\DTOs\\RequestTaskDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T19:43:01.91Z",
               "EditorCaption": ""
             },
             {
@@ -89,26 +174,20 @@
               "RelativeDocumentMoniker": "Task Tracker Application\\Controllers\\TasksController.cs",
               "ToolTip": "D:\\Git\\Challenge\\Task Tracker Application\\Task Tracker Application\\Controllers\\TasksController.cs",
               "RelativeToolTip": "Task Tracker Application\\Controllers\\TasksController.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAAB4AAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-30T17:08:02.927Z",
               "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 185,
-          "SelectedChildIndex": 0,
-          "Children": [
+            },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "CustomTask.cs",
               "DocumentMoniker": "D:\\Git\\Challenge\\Task Tracker Application\\Task Tracker Application\\Model\\CustomTask.cs",
               "RelativeDocumentMoniker": "Task Tracker Application\\Model\\CustomTask.cs",
               "ToolTip": "D:\\Git\\Challenge\\Task Tracker Application\\Task Tracker Application\\Model\\CustomTask.cs",
               "RelativeToolTip": "Task Tracker Application\\Model\\CustomTask.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-30T17:06:12.987Z",
               "EditorCaption": ""

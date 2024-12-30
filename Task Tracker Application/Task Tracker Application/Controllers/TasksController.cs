@@ -1,41 +1,45 @@
 using Microsoft.AspNetCore.Mvc;
 using Task_Tracker_Application.DTOs;
 using Task_Tracker_Application.Model;
-using System.Text.Json;
-using System.Text.Json.Serialization;
-using Newtonsoft.Json.Linq;
+using Task_Tracker_Application.Services;
 
 namespace Task_Tracker_Application.Controllers
 {
     [ApiController]
-    [Route("/api/tasks")]
+    [Route("/api/[controller]")]
     public class TasksController : ControllerBase
     {
         private readonly ILogger<TasksController> _logger;
+        
+        private readonly ITaskService _taskService;
 
-        public TasksController(ILogger<TasksController> logger)
+        public TasksController(ILogger<TasksController> logger, ITaskService taskService)
         {
             _logger = logger;
+            _taskService = taskService;
         }
 
-        [HttpGet(Name = "GetTasks")]
-        public List<CustomTask> Get()
-        {
-            return new()
-            {
-                new CustomTask("Name", "Description"),
-            };
-        }
+        [HttpGet]
+        public IActionResult Get() => Ok(_taskService.Get());
+        
 
-        [HttpPost()]
-        public List<CustomTask> Post(JObject taskJson)
+        [HttpPost]
+        public IActionResult Post([FromBody]RequestTaskDTO taskDTO)
         {
-            return new()
+            try
             {
-                new CustomTask(
-                    (string)taskJson.Property("Name"),
-                    (string)taskJson.Property("Description"))
-            };
+                var task = _taskService.AddTask(new CustomTask(taskDTO.Name, taskDTO.Description));
+
+                return CreatedAtAction(
+                    nameof(Get),
+                    new { id = task.Id },
+                    task);
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(ex.Message);
+            }
+
         }
     }
 }

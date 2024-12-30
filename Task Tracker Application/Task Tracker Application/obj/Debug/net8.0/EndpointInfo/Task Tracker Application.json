@@ -5,41 +5,14 @@
     "version": "1.0"
   },
   "paths": {
-    "/api/tasks": {
+    "/api/Tasks": {
       "get": {
         "tags": [
           "Tasks"
         ],
-        "operationId": "GetTasks",
         "responses": {
           "200": {
-            "description": "OK",
-            "content": {
-              "text/plain": {
-                "schema": {
-                  "type": "array",
-                  "items": {
-                    "$ref": "#/components/schemas/CustomTask"
-                  }
-                }
-              },
-              "application/json": {
-                "schema": {
-                  "type": "array",
-                  "items": {
-                    "$ref": "#/components/schemas/CustomTask"
-                  }
-                }
-              },
-              "text/json": {
-                "schema": {
-                  "type": "array",
-                  "items": {
-                    "$ref": "#/components/schemas/CustomTask"
-                  }
-                }
-              }
-            }
+            "description": "OK"
           }
         }
       },
@@ -51,59 +24,24 @@
           "content": {
             "application/json": {
               "schema": {
-                "type": "object",
-                "additionalProperties": {
-                  "$ref": "#/components/schemas/JToken"
-                }
+                "$ref": "#/components/schemas/RequestTaskDTO"
               }
             },
             "text/json": {
               "schema": {
-                "type": "object",
-                "additionalProperties": {
-                  "$ref": "#/components/schemas/JToken"
-                }
+                "$ref": "#/components/schemas/RequestTaskDTO"
               }
             },
             "application/*+json": {
               "schema": {
-                "type": "object",
-                "additionalProperties": {
-                  "$ref": "#/components/schemas/JToken"
-                }
+                "$ref": "#/components/schemas/RequestTaskDTO"
               }
             }
           }
         },
         "responses": {
           "200": {
-            "description": "OK",
-            "content": {
-              "text/plain": {
-                "schema": {
-                  "type": "array",
-                  "items": {
-                    "$ref": "#/components/schemas/CustomTask"
-                  }
-                }
-              },
-              "application/json": {
-                "schema": {
-                  "type": "array",
-                  "items": {
-                    "$ref": "#/components/schemas/CustomTask"
-                  }
-                }
-              },
-              "text/json": {
-                "schema": {
-                  "type": "array",
-                  "items": {
-                    "$ref": "#/components/schemas/CustomTask"
-                  }
-                }
-              }
-            }
+            "description": "OK"
           }
         }
       }
@@ -111,13 +49,9 @@
   },
   "components": {
     "schemas": {
-      "CustomTask": {
+      "RequestTaskDTO": {
         "type": "object",
         "properties": {
-          "id": {
-            "type": "string",
-            "format": "uuid"
-          },
           "name": {
             "type": "string",
             "nullable": true
@@ -128,12 +62,6 @@
           }
         },
         "additionalProperties": false
-      },
-      "JToken": {
-        "type": "array",
-        "items": {
-          "$ref": "#/components/schemas/JToken"
-        }
       }
     }
   }
